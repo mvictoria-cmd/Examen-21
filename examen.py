@@ -12,10 +12,35 @@
 # =========================
 # ETAPA 1 - INICIO
 # =========================
+nombre_piloto = input("Ingrese su nombre: ")
 
-# Crear las variables necesarias.
-# Crear las listas de destinos y costos.
-# Pedir el nombre del piloto.
+conbustible = 100
+
+Cantidad_viajes = 0
+
+viajes_Luna = 0
+
+viajes_Marte = 0
+
+viajes_Saturno = 0
+
+destinos = ["luna", "marte", "saturno"]
+
+costos = ["20", "35", "50"]
+
+print("Bienvenido a la Terminal de Expedición Espacial, ", nombre_piloto)
+print("Combustible disponible: ", conbustible, "unidades")
+
+
+
+
+
+
+
+
+
+
+
 
 
 # =========================
